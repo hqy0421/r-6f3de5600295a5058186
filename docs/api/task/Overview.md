@@ -13,6 +13,7 @@
 * [filter](filter.md)
 * [flat_map](flat_map.md)
 * [from_iterable](from_iterable.md)
+* [from_kafka](from_kafka.md)
 * [map](map.md)
 * [ordered](ordered.md)
 * [run](run.md)
